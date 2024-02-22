@@ -1,0 +1,53 @@
+service: truecorp-oneapp-backend
+
+useDotenv: true
+
+plugins:
+  - serverless-offline
+  - serverless-dotenv-plugin
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: ap-southeast-1
+  httpApi:
+    cors:
+      allowedOrigins:
+        '*'
+        # - http://localhost:8080
+        # - https://app.xxx.com
+      allowedMethods:
+        - GET
+        - POST
+        - PUT
+        - PATCH
+        - DELETE
+        - OPTIONS
+      allowedHeaders: '*'
+      allowCredentials: false
+
+functions:
+  api: # The name of the lambda function
+    # The module 'handler' is exported in the file 'src/lambda'
+    handler: dist/lambda.handler
+    events:
+      - httpApi: '*'
+
+    layers:
+      - !Ref TrueOneappApiLambdaLayer
+
+layers:
+  TrueOneappApi:
+    path: layers
+    compatibleRuntimes:
+      - nodejs18.x
+    description: 'Truecorp Oneapp node modules dependencies'
+
+package:
+  patterns:
+    - '!*'
+    - '!events/**'
+    - '!layers/**'
+    - '!node_modules/**'
+    - 'src/**'
+  excludeDevDependencies: false

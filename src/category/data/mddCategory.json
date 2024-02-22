@@ -1,0 +1,331 @@
+{
+  "status": {
+    "statusType": "S",
+    "errorCode": "S-MDD-00000",
+    "errorMessage": "Successfully processed",
+    "server": "kalium14.tac.co.th",
+    "hostId": "d1ce3a2f0846",
+    "transactionId": "ESVWEB20241521230230068180"
+  },
+  "data": {
+    "mainCategories": [
+      {
+        "bannerId": "20150709514",
+        "channelId": "2109110089",
+        "categoryNameTH": "แพ็กเกจเคยซื้อ",
+        "categoryNameEN": "Package History",
+        "categoryNameMY": "အထုပ်မှတ်တမ်း",
+        "categoryNameKM": "Package History KM",
+        "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_packagehistory.png",
+        "activeImageUrl": "https://oneapp.dtac.true.ekkapop.com/assets/categories/packages/1.png",
+        "urlName": "packagehistory"
+      },
+      {
+        "bannerId": "20150709563",
+        "channelId": "2109110089",
+        "categoryNameTH": "โปรตามใจ",
+        "categoryNameEN": "My Choice",
+        "categoryNameMY": "ကျွန်ုပ်၏ရွေးချယ်မှု",
+        "categoryNameKM": "My Choic KM",
+        "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_flexiplan_active.png",
+        "activeImageUrl": "https://oneapp.dtac.true.ekkapop.com/assets/categories/packages/12.png",
+        "urlName": "MyChoice"
+      },
+      {
+        "categoryNameTH": "เน็ต",
+        "categoryNameEN": "Net",
+        "categoryNameMY": "အင်တာနက်",
+        "categoryNameKM": "Net KM",
+        "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_internet_active.png",
+        "activeImageUrl": "https://oneapp.dtac.true.ekkapop.com/assets/categories/packages/2.png",
+        "urlName": "Net",
+        "subCategory": [
+          {
+            "bannerId": "20150709576",
+            "channelId": "2109110089",
+            "categoryNameTH": "เน็ตไม่จำกัด",
+            "categoryNameEN": "Net Unlimited",
+            "categoryNameMY": "အကန့်အသတ်မရှိ",
+            "categoryNameKM": "Net Unlimited KM",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_netnonstop.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_netnonstop_active.png",
+            "urlName": "net-unlimited"
+          },
+          {
+            "bannerId": "20150709577",
+            "channelId": "2109110089",
+            "categoryNameTH": "เน็ตตูมตาม",
+            "categoryNameEN": "Net Toom Tam",
+            "categoryNameMY": "Net Toom Tam",
+            "categoryNameKM": "Net Toom Tam KM",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_netnonstop.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_netnonstop_active.png",
+            "urlName": "net-toom-tam"
+          },
+          {
+            "bannerId": "20150709578",
+            "channelId": "2109110089",
+            "categoryNameTH": "เน็ตเต็มสปีด",
+            "categoryNameEN": "Internet Max Speed",
+            "categoryNameMY": "အရှိန်အလွန်မြန်သော",
+            "categoryNameKM": "Internet Max Speed KM",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_netbyspeed.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_netbyspeed_active.png",
+            "urlName": "net-max-speed"
+          },
+          {
+            "bannerId": "20150709579",
+            "channelId": "2109110089",
+            "categoryNameTH": "เน็ตอมตะ",
+            "categoryNameEN": "Net Immortal",
+            "categoryNameMY": "မသေနိုင်သော",
+            "categoryNameKM": "Net Immortal KM",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_netimmortal.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_netimmortal_active.png",
+            "urlName": "net-immortal"
+          },
+          {
+            "bannerId": "20150709580",
+            "channelId": "2109110089",
+            "categoryNameTH": "โอเค! เน็ต",
+            "categoryNameEN": "Ok Net",
+            "categoryNameMY": "Ok Net",
+            "categoryNameKM": "Ok Net KM",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_oknet.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_oknet_active.png",
+            "urlName": "ok-net"
+          },
+          {
+            "bannerId": "20150709581",
+            "channelId": "2109110089",
+            "categoryNameTH": "เพิ่มความเร็ว",
+            "categoryNameEN": "Internet Booster",
+            "categoryNameMY": "အရှိန်မြှင့်",
+            "categoryNameKM": "Internet Booster KM",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_internetbooster.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_internetbooster_active.png",
+            "urlName": "net-booster"
+          }
+        ]
+      },
+      {
+        "categoryNameTH": "เน็ต & โทร",
+        "categoryNameEN": "Net & Voice",
+        "categoryNameMY": "ဒေတာ & ခေါ်ဆိုမှု",
+        "categoryNameKM": "Net & Voice KM",
+        "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_net_and_voice_active.png",
+        "activeImageUrl": "https://oneapp.dtac.true.ekkapop.com/assets/categories/packages/6.png",
+        "urlName": "NetVoice",
+        "subCategory": [
+          {
+            "bannerId": "20150709582",
+            "channelId": "2109110089",
+            "categoryNameTH": "Go No Limit",
+            "categoryNameEN": "Go No Limit",
+            "categoryNameMY": "Go No Limit",
+            "categoryNameKM": "Go No Limit",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_goplus.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_goplus.png",
+            "urlName": "go-no-limit"
+          },
+          {
+            "bannerId": "20150709583",
+            "channelId": "2109110089",
+            "categoryNameTH": "Max Combo",
+            "categoryNameEN": "Max Combo",
+            "categoryNameMY": "Max Combo",
+            "categoryNameKM": "Max Combo",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_goplus.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_goplus.png",
+            "urlName": "max-combo"
+          }
+        ]
+      },
+      {
+        "categoryNameTH": "โทร",
+        "categoryNameEN": "Voice",
+        "categoryNameMY": "ခေါ်ပါ",
+        "categoryNameKM": "Voice KM",
+        "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_call_active.png",
+        "activeImageUrl": "https://oneapp.dtac.true.ekkapop.com/assets/categories/packages/5.png",
+        "urlName": "Voice",
+        "subCategory": [
+          {
+            "bannerId": "20150709584",
+            "channelId": "2109110089",
+            "categoryNameTH": "ในเครือข่าย",
+            "categoryNameEN": "dtac Network",
+            "categoryNameMY": "ကွန်ယက်ထဲမှာ",
+            "categoryNameKM": "dtac Network KM",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_call_active.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_call_active.png",
+            "urlName": "dtac-network"
+          },
+          {
+            "bannerId": "20150709585",
+            "channelId": "2109110089",
+            "categoryNameTH": "ทุกเครือข่าย",
+            "categoryNameEN": "All Network",
+            "categoryNameMY": "အားလုံးသောကွန်ယက်",
+            "categoryNameKM": "All Network KM",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_call_active.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_call_active.png",
+            "urlName": "all-network"
+          }
+        ]
+      },
+      {
+        "categoryNameTH": "ไลฟ์สไตล์",
+        "categoryNameEN": "Lifestyle",
+        "categoryNameMY": "နေထိုင်မှုပုံစံ",
+        "categoryNameKM": "Lifestyle KM",
+        "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_social_active.png",
+        "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_social_active.png",
+        "urlName": "Lifestyle",
+        "subCategory": [
+          {
+            "bannerId": "20150709603",
+            "channelId": "2109110089",
+            "categoryNameTH": "Free Fire",
+            "categoryNameEN": "Game",
+            "categoryNameMY": "Free Fire",
+            "categoryNameKM": "Free Fire",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_game_active.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_game_active.png",
+            "urlName": "FreeFire"
+          },
+          {
+            "bannerId": "20150709586",
+            "channelId": "2109110089",
+            "categoryNameTH": "Social Max",
+            "categoryNameEN": "Social Max",
+            "categoryNameMY": "လူမှုရေးအများဆုံး",
+            "categoryNameKM": "Social Max KM",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_social_active.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_social_active.png",
+            "urlName": "social-network"
+          },
+          {
+            "bannerId": "20150709589",
+            "channelId": "2109110089",
+            "categoryNameTH": "Unlimted Enterianment",
+            "categoryNameEN": "Unlimted Enterianment",
+            "categoryNameMY": "အကန့်အသတ်မဲ့ဝင်ရောက်ပါ",
+            "categoryNameKM": "Unlimted Enterianment KM",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_entertainment.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_entertainment_active.png",
+            "urlName": "UnlimtedEnterianment"
+          }
+        ]
+      },
+      {
+        "bannerId": "20150709591",
+        "channelId": "2109110089",
+        "categoryNameTH": "Free Fire",
+        "categoryNameEN": "Free Fire",
+        "categoryNameMY": "Free Fire",
+        "categoryNameKM": "Free Fire",
+        "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_game_active.png",
+        "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_game_active.png",
+        "urlName": "FreeFire"
+      },
+      {
+        "categoryNameTH": "ประกัน",
+        "categoryNameEN": "Insurance",
+        "categoryNameMY": "အာမခံပါတယ်",
+        "categoryNameKM": "Insurance KM",
+        "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_insurance_active.png",
+        "activeImageUrl": "https://oneapp.dtac.true.ekkapop.com/assets/categories/packages/8.png",
+        "urlName": "Insurance",
+        "subCategory": [
+          {
+            "bannerId": "20150709592",
+            "channelId": "2109110089",
+            "categoryNameTH": "ประกันโควิด",
+            "categoryNameEN": "Covid",
+            "categoryNameMY": "ကိုဗစ်",
+            "categoryNameKM": "Covid KM",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_insurance_active.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_insurance_active.png",
+            "urlName": "Covid"
+          },
+          {
+            "bannerId": "20150709593",
+            "channelId": "2109110089",
+            "categoryNameTH": "ประกันอุบัติเหตุ",
+            "categoryNameEN": "Personal Accident",
+            "categoryNameMY": "ပုဂ္ဂိုလ်ရေးမတော်တဆမှု",
+            "categoryNameKM": "Personal Accident KM",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_insurance_active.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_insurance_active.png",
+            "urlName": "PersonalAccident"
+          }
+        ]
+      },
+      {
+        "categoryNameTH": "โรมมิ่ง",
+        "categoryNameEN": "Roaming",
+        "categoryNameMY": "အသုံးပြုခြင်း",
+        "categoryNameKM": "Roaming KM",
+        "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_roaming_active.png",
+        "activeImageUrl": "https://oneapp.dtac.true.ekkapop.com/assets/categories/packages/3.png",
+        "urlName": "Roaming",
+        "subCategory": [
+          {
+            "bannerId": "RoamingByCountryBannerID",
+            "channelId": "2109110089",
+            "categoryNameTH": "โรมมิ่ง แบบค้นหาประเทศ",
+            "categoryNameEN": "Roaming by Country",
+            "categoryNameMY": "Roaming by Country",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_roaming_active.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_roaming_active.png",
+            "urlName": "RoamingByCountry"
+          },
+          {
+            "bannerId": "20150709607",
+            "channelId": "2109110089",
+            "categoryNameTH": "Go travel",
+            "categoryNameEN": "Go travel",
+            "categoryNameMY": "Go travel",
+            "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_roaming_active.png",
+            "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_roaming_active.png",
+            "urlName": "GoTravel"
+          }
+        ]
+      },
+      {
+        "bannerId": "20150709625",
+        "channelId": "2109110089",
+        "categoryNameTH": "แพ็กเกจหลัก",
+        "categoryNameEN": "Main package",
+        "categoryNameMY": "Main package",
+        "categoryNameKM": "Main package KM",
+        "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ic_mainpackage.png",
+        "activeImageUrl": "https://oneapp.dtac.true.ekkapop.com/assets/categories/packages/4.png",
+        "urlName": "mainpackage"
+      },
+      {
+        "bannerId": "20150709669",
+        "channelId": "2109110089",
+        "categoryNameTH": "Prepaid to Postpaid",
+        "categoryNameEN": "Prepaid to Postpaid",
+        "categoryNameMY": "Prepaid to Postpaid",
+        "categoryNameKM": "Prepaid to Postpaid",
+        "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_sim_card_active.png",
+        "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_sim_card_active.png",
+        "urlName": "pretopost"
+      },
+      {
+        "bannerId": "DeeplinkBannerID",
+        "channelId": "2109110089",
+        "categoryNameTH": "โปรโมชันแนะนำ",
+        "categoryNameEN": "Recommended",
+        "categoryNameMY": "Recommended",
+        "categoryNameKM": "Recommended",
+        "normalImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_game_active.png",
+        "activeImageUrl": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/new_ic_game_active.png",
+        "urlName": "campaign"
+      }
+    ]
+  }
+}
