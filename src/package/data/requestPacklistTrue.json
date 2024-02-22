@@ -211,93 +211,34 @@
           "packageInfo": [
             {
               "packType": "ADDITIONAL",
-              "packageCode": "22221111",
+              "packageCode": "IPK_DB_OC_FWDNET1GB_30D",
               "encryptedPackCode": "kp--Y9n34agvj-kf0HlApg==",
               "desc": "Sale talk Special!! Best seller. Worth to use. Buy now!",
-              "price": "1299.0",
-              "originalPrice": "1599.00",
-              "shortDesc": "Short description Special price! Net No Limit on sale! Unlimited net at 10 Mbps max speed",
-              "longDesc": "Short description Special price! Net No Limit on sale! Unlimited net at 10 Mbps max speed",
-              "validity": "15",
-              "validityDesc": "day",
-              "termCond": "Price not included VAT, maximum 1Hr/call during unlimited call period ",
-              "benefit": [
-                {
-                  "id": "2",
-                  "service": "Net",
-                  "quota": "Unlimited 11",
-                  "desc": "mbps",
-                  "priority": "2",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
-                },
-                {
-                  "id": "1",
-                  "service": "Voice",
-                  "quota": "within network",
-                  "desc": "24 Hrs",
-                  "priority": "1",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
-                },
-                {
-                  "id": "4",
-                  "service": "Net",
-                  "quota": "3",
-                  "desc": "GB",
-                  "extension": "test",
-                  "priority": "4",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
-                },
-                {
-                  "id": "3",
-                  "service": "Net",
-                  "quota": "Unlimited",
-                  "desc": "3 Mbps\t",
-                  "extension": "test",
-                  "priority": "3",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
-                }
-              ],
-              "specialDet": [
-                {
-                  "detail": "Free calls to dtac numbers during 11pm-7pm"
-                }
-              ],
-              "specialDetV3": ["Free calls to dtac numbers during 11pm-7pm"],
-              "pre2PostOffer": "N",
-              "telpType": "P",
-              "validityInDays": 15,
-              "coin": "11",
-              "journey": "PackageSubscription",
-              "offerGroupType": "MDD_PREPAID",
-              "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png"
-            },
-            {
-              "packType": "ADDITIONAL",
-              "packageCode": "22221111",
-              "encryptedPackCode": "kp--Y9n34agvj-kf0HlApg==",
-              "desc": "Sale talk Special!! Best seller. Worth to use. Buy now!",
-              "price": "1599.0",
-              "originalPrice": "1599.00",
-              "shortDesc": "Short description Special price! Net No Limit on sale! Unlimited net at 10 Mbps max speed",
-              "longDesc": "Short description Special price! Net No Limit on sale! Unlimited net at 10 Mbps max speed",
+              "price": "79.00",
+              "originalPrice": "100",
+              "priceIncludeVat": "84.53",
+              "shortDesc": "เน็ต 1GB+ประกันอุบัติเหตุ",
+              "longDesc": "เน็ต 1GB+ประกันอุบัติเหตุ",
               "validity": "30",
-              "validityDesc": "day",
-              "termCond": "Price not included VAT, maximum 1Hr/call during unlimited call period ",
+              "validityDesc": "days",
+              "termCond": "- This price excludes VAT.\r\n- The package expires automatically at the time of purchase.\r\n- The PA insurance covers up to ฿100,000 and registration will be completed within 24 hours after the package subscription is successful.\r\n- The Company reserves the right to manage network as appropriate in order to ensure network quality for all users.  The Company may consider limiting or reducing bit torrent usage, download or upload bit file or any usage that consumes big data volume that could impact network quality for other users, affect use, or cause injustice or damage to other users or the company's network or service. Reduce speed could be lower than what stated in package depending on usage, area and device. \r\n\r\n ",
               "benefit": [
                 {
                   "id": "2",
-                  "service": "Net",
-                  "quota": "",
-                  "desc": "",
+                  "service": "Unlimited",
+                  "quota": "12",
+                  "desc": "Mbps",
                   "priority": "2",
-                  "catagoryIcon": ""
+                  "extension": "Unlimited",
+                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
                 },
                 {
                   "id": "1",
-                  "service": "Voice",
-                  "quota": "within network",
-                  "desc": "60 Hrs",
+                  "service": "call true number",
+                  "quota": "24",
+                  "desc": "hours",
                   "priority": "1",
+                  "extension": "call true number",
                   "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
                 },
                 {
@@ -335,10 +276,74 @@
             },
             {
               "packType": "ADDITIONAL",
+              "packageCode": "IPK_DS_RC_ULM2MB_7D",
+              "encryptedPackCode": "kp--Y9n34agvj-kf0HlApg==",
+              "desc": "Sale talk Special!! Best seller. Worth to use. Buy now!",
+              "price": "120.00",
+              "priceIncludeVat": "128.4",
+              "shortDesc": "เน็ตไม่อั้น ไม่ลดความเร็วที่ 2Mbps",
+              "longDesc": "เน็ตไม่อั้น ไม่ลดความเร็วที่ 2Mbps",
+              "validity": "7",
+              "validityDesc": "วัน",
+              "termCond": "- Package expires automatically at 23.59 of day 7th after purchase.\r\n- Overage charges will be calculated based on the rates specified in the current main package.\r\n- The Company reserves the right to manage network as appropriate in order to ensure network quality for all users.  The Company may consider limiting or reducing bit torrent usage, download or upload bit file or any usage that consumes big data volume that could impact network quality for other users, affect use, or cause injustice or damage to other users or the company's network or service. Reduce speed could be lower than what stated in package depending on usage, area and device. \r\n\r\n",
+              "benefit": [
+                {
+                  "id": "2",
+                  "service": "Net",
+                  "quota": "1000",
+                  "desc": "Mpbs",
+                  "extension": "unlimited",
+                  "priority": "4",
+                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                },
+                {
+                  "id": "1",
+                  "service": "Voice",
+                  "quota": "24",
+                  "desc": "hours",
+                  "priority": "1",
+                  "extension": "call true number",
+                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                },
+                {
+                  "id": "4",
+                  "service": "Net",
+                  "quota": "3",
+                  "desc": "GB",
+                  "extension": "test",
+                  "priority": "4",
+                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                },
+                {
+                  "id": "3",
+                  "service": "Net",
+                  "quota": "Unlimited",
+                  "desc": "3 Mbps\t",
+                  "extension": "test",
+                  "priority": "3",
+                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                }
+              ],
+              "specialDet": [
+                {
+                  "detail": "Free calls to dtac numbers during 11pm-7pm"
+                }
+              ],
+              "specialDetV3": ["Free calls to dtac numbers during 11pm-7pm"],
+              "pre2PostOffer": "N",
+              "telpType": "P",
+              "validityInDays": 7,
+              "coin": "11",
+              "journey": "PackageSubscription",
+              "offerGroupType": "MDD_PREPAID",
+              "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png"
+            },
+            {
+              "packType": "ADDITIONAL",
               "packageCode": "22221111",
               "encryptedPackCode": "kp--Y9n34agvj-kf0HlApg==",
               "desc": "Sale talk Special!! Best seller. Worth to use. Buy now!",
-              "price": "1299.0",
+              "price": "199.0",
               "originalPrice": "1599.00",
               "shortDesc": "Short description Special price! Net No Limit on sale! Unlimited net at 10 Mbps max speed",
               "longDesc": "Short description Special price! Net No Limit on sale! Unlimited net at 10 Mbps max speed",
@@ -349,16 +354,18 @@
                 {
                   "id": "2",
                   "service": "Net",
-                  "quota": "Unlimited 10",
-                  "desc": "mbps",
+                  "quota": "10",
+                  "desc": "Mbps",
                   "priority": "2",
+                  "extension": "Unlimited",
                   "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
                 },
                 {
                   "id": "1",
                   "service": "Voice",
-                  "quota": "within network",
-                  "desc": "24 Hrs",
+                  "quota": "24",
+                  "desc": "hours",
+                  "extension": "call true number",
                   "priority": "1",
                   "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
                 }
@@ -393,7 +400,7 @@
               "packageCode": "22221111",
               "encryptedPackCode": "kp--Y9n34agvj-kf0HlApg==",
               "desc": "Sale talk Special!! Best seller. Worth to use. Buy now!",
-              "price": "1299.0",
+              "price": "198.0",
               "originalPrice": "1599.00",
               "shortDesc": "Short description Special price! Net No Limit on sale! Unlimited net at 10 Mbps max speed",
               "longDesc": "Short description Special price! Net No Limit on sale! Unlimited net at 10 Mbps max speed",
@@ -404,17 +411,19 @@
                 {
                   "id": "2",
                   "service": "Net",
-                  "quota": "Unlimited 10",
-                  "desc": "mbps",
+                  "quota": "10",
+                  "desc": "Mbps",
                   "priority": "2",
+                  "extension": "Unlimited",
                   "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
                 },
                 {
                   "id": "1",
                   "service": "Voice",
-                  "quota": "within network",
-                  "desc": "24 Hrs",
+                  "quota": "24",
+                  "desc": "hours",
                   "priority": "1",
+                  "extension": "call true number",
                   "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
                 }
               ],
@@ -437,7 +446,7 @@
               "packageCode": "22221111",
               "encryptedPackCode": "kp--Y9n34agvj-kf0HlApg==",
               "desc": "Sale talk Special!! Best seller. Worth to use. Buy now!",
-              "price": "1299.0",
+              "price": "198.0",
               "originalPrice": "1599.00",
               "shortDesc": "Short description Special price! Net No Limit on sale! Unlimited net at 10 Mbps max speed",
               "longDesc": "Short description Special price! Net No Limit on sale! Unlimited net at 10 Mbps max speed",
@@ -448,16 +457,18 @@
                 {
                   "id": "2",
                   "service": "Net",
-                  "quota": "Unlimited 10",
-                  "desc": "mbps",
+                  "quota": "10",
+                  "desc": "Mbps",
                   "priority": "2",
+                  "extension": "Unlimited",
                   "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
                 },
                 {
                   "id": "1",
                   "service": "Voice",
-                  "quota": "within network",
-                  "desc": "24 Hrs",
+                  "quota": "24",
+                  "desc": "hours",
+                  "extension": "call true number",
                   "priority": "1",
                   "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
                 }
@@ -492,7 +503,7 @@
               "packageCode": "22221111",
               "encryptedPackCode": "kp--Y9n34agvj-kf0HlApg==",
               "desc": "Sale talk Special!! Best seller. Worth to use. Buy now!",
-              "price": "1299.0",
+              "price": "197.0",
               "originalPrice": "1599.00",
               "shortDesc": "Short description Special price! Net No Limit on sale! Unlimited net at 10 Mbps max speed",
               "longDesc": "Short description Special price! Net No Limit on sale! Unlimited net at 10 Mbps max speed",
@@ -558,7 +569,7 @@
               "commercialName": "Shock Price package",
               "sellTalk": "Shock! Non-stop internet and free wifi",
               "desc": "Internet50GB at 20Mbps/FUP384Kbps 280B/30d(ex.VAT)",
-              "price": "280.00",
+              "price": "197.00",
               "shortDesc": "Shock Price: Non-Stop internet 50GB at speed 20Mbps/FUP 384Kbps",
               "longDesc": "Shock Price: Non-Stop internet 50GB at speed 20Mbps then unlimited at 384Kbps + free dtac wifi price 280B/30D (excl.VAT).",
               "validity": "30",
@@ -630,7 +641,7 @@
               "sellTalk": "Special discount Welcome new year 2024",
               "desc": "Unlimited net at speed 10Mbps 450B/30D (excl.VAT",
               "originalPrice": "1110.00",
-              "price": "450.00",
+              "price": "197.00",
               "shortDesc": "Special Price : Unlimited internet at max speed 10 Mbps",
               "longDesc": "Special Price : Unlimited internet at max speed 10 Mbps is discounted price 450B./30days (excl.VAT) (normal price 1,110B.)",
               "validity": "30",
@@ -692,7 +703,7 @@
               "commercialName": "Promotion 12.12",
               "sellTalk": "Redeem coins to subscribe199coins+115B",
               "desc": "Internet at max speed 24GB 129Bt/10days (excl.VAT)",
-              "price": "129.00",
+              "price": "197.00",
               "shortDesc": "Special price! Internet at max speed 12GB+12GB",
               "longDesc": "Internet at max speed 12GB+12GB price 129 Baht/10days (excl.VAT)",
               "validity": "10",
