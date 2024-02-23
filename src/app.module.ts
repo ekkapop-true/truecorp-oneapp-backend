@@ -7,10 +7,21 @@ import { PackageService } from './package/package.service';
 import { PackageModule } from './package/package.module';
 import { CategoryModule } from './category/category.module';
 import { RoamingModule } from './roaming/roaming.module';
+import { HttpModule } from '@nestjs/axios';
+import { PurchaseModule } from './purchase/purchase.module';
+import { PurchaseService } from './purchase/purchase.service';
 
 @Module({
-  imports: [AuthModule, UsersModule, PackageModule, CategoryModule, RoamingModule],
+  imports: [
+    AuthModule,
+    UsersModule,
+    PackageModule,
+    CategoryModule,
+    RoamingModule,
+    HttpModule,
+    PurchaseModule,
+  ],
   controllers: [AppController],
-  providers: [AppService, PackageService],
+  providers: [AppService, PackageService, PurchaseService],
 })
 export class AppModule {}
