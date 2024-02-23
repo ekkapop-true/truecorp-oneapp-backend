@@ -8,6 +8,8 @@ import { PackageModule } from './package/package.module';
 import { CategoryModule } from './category/category.module';
 import { RoamingModule } from './roaming/roaming.module';
 import { HttpModule } from '@nestjs/axios';
+import { PurchaseModule } from './purchase/purchase.module';
+import { PurchaseService } from './purchase/purchase.service';
 
 @Module({
   imports: [
@@ -17,8 +19,9 @@ import { HttpModule } from '@nestjs/axios';
     CategoryModule,
     RoamingModule,
     HttpModule,
+    PurchaseModule,
   ],
   controllers: [AppController],
-  providers: [AppService, PackageService],
+  providers: [AppService, PackageService, PurchaseService],
 })
 export class AppModule {}
