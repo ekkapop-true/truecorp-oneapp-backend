@@ -36,7 +36,7 @@ export class PurchaseService {
     const { data } = await firstValueFrom(
       this.httpService
         .post(
-          'https://ddchpackagetest.test.dtac.co.th/api/upsell/subscriptionv2/additional/EN/66949296202/626171035',
+          `https://ddchpackagetest.test.dtac.co.th/api/upsell/subscriptionv2/${body.packcode.startsWith('1') ? 'main' : 'additional'}/EN/66627731417/626172061`,
           body,
           { headers: headersRequest },
         )

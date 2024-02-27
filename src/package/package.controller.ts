@@ -10,6 +10,6 @@ export class PackageController {
   @Post('requestPackList')
   @HttpCode(HttpStatus.OK)
   requestPackList(@Body() body: IRequestPackListBody) {
-    return this.packageService.requestPackList({ useMock: false, body: body });
+    return this.packageService.requestPackList({ useMock: true, body: body });
   }
 }
