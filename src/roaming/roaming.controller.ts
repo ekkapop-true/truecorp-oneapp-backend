@@ -37,4 +37,14 @@ export class RoamingController {
   ) {
     return this.roamingService.getDataRoamingRates(lang, countryCode);
   }
+
+  @Public()
+  @Get('getTimeZone?')
+  @HttpCode(HttpStatus.OK)
+  getTimeZone(
+    @Query('lang') lang: string,
+    @Query('countryCode') countryCode: string,
+  ) {
+    return this.roamingService.getTimeZone(lang, countryCode);
+  }
 }
