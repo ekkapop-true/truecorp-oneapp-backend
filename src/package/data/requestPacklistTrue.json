@@ -211,6 +211,71 @@
           "packageInfo": [
             {
               "packType": "ADDITIONAL",
+              "packageCode": "12094984",
+              "encryptedPackCode": "kp--Y9n34agvj-kf0HlApg==",
+              "desc": "Sale talk Special!! Best seller. Worth to use. Buy now!",
+              "price": "559.10",
+              "originalPrice": "699.50",
+              "priceIncludeVat": "559.10",
+              "shortDesc": "12094984 Happy Net 699 Pay 559 Smartphone 699 Pay559B, Net Always On 20GBFree Call200minb",
+              "longDesc": "เน็ต 1GB+ประกันอุบัติเหตุ",
+              "validity": "12",
+              "validityDesc": "days",
+              "termCond": "- This price excludes VAT.\r\n- The package expires automatically at the time of purchase.\r\n- The PA insurance covers up to ฿100,000 and registration will be completed within 24 hours after the package subscription is successful.\r\n- The Company reserves the right to manage network as appropriate in order to ensure network quality for all users.  The Company may consider limiting or reducing bit torrent usage, download or upload bit file or any usage that consumes big data volume that could impact network quality for other users, affect use, or cause injustice or damage to other users or the company's network or service. Reduce speed could be lower than what stated in package depending on usage, area and device. \r\n\r\n ",
+              "benefit": [
+                {
+                  "id": "2",
+                  "service": "Unlimited",
+                  "quota": "12",
+                  "desc": "Mbps",
+                  "priority": "2",
+                  "extension": "Unlimited",
+                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                },
+                {
+                  "id": "1",
+                  "service": "call true number",
+                  "quota": "24",
+                  "desc": "hours",
+                  "priority": "1",
+                  "extension": "call true number",
+                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                },
+                {
+                  "id": "4",
+                  "service": "Net",
+                  "quota": "3",
+                  "desc": "GB",
+                  "extension": "test",
+                  "priority": "4",
+                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                },
+                {
+                  "id": "3",
+                  "service": "Net",
+                  "quota": "Unlimited",
+                  "desc": "3 Mbps\t",
+                  "extension": "test",
+                  "priority": "3",
+                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                }
+              ],
+              "specialDet": [
+                {
+                  "detail": "Free calls to dtac numbers during 11pm-7pm"
+                }
+              ],
+              "specialDetV3": ["Free calls to dtac numbers during 11pm-7pm"],
+              "pre2PostOffer": "N",
+              "telpType": "P",
+              "validityInDays": 30,
+              "coin": "11",
+              "journey": "PackageSubscription",
+              "offerGroupType": "MDD_PREPAID",
+              "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_best_seller.png"
+            },
+            {
+              "packType": "ADDITIONAL",
               "packageCode": "IPK_DB_OC_FWDNET1GB_30D",
               "encryptedPackCode": "kp--Y9n34agvj-kf0HlApg==",
               "desc": "Sale talk Special!! Best seller. Worth to use. Buy now!",
@@ -272,7 +337,7 @@
               "coin": "11",
               "journey": "PackageSubscription",
               "offerGroupType": "MDD_PREPAID",
-              "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png"
+              "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_best_seller.png"
             },
             {
               "packType": "ADDITIONAL",
@@ -336,7 +401,7 @@
               "coin": "11",
               "journey": "PackageSubscription",
               "offerGroupType": "MDD_PREPAID",
-              "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png"
+              "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png"
             },
             {
               "packType": "ADDITIONAL",
