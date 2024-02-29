@@ -1,0 +1,29 @@
+{
+  "data": {
+    "response": [
+      {
+        "id": 233,
+        "timeZone": "Bangkok, Hanoi, Jakarta Time",
+        "abbreviation": "WFT",
+        "location": "Thailand",
+        "keySearch": "ไทย|thailand|bbk",
+        "offset": "GTM +7"
+      },
+      {
+        "id": 33,
+        "timeZone": "Anywhere on Earth",
+        "abbreviation": "AoE",
+        "location": "Pacific",
+        "keySearch": "Earth",
+        "offset": "UTC -12"
+      }
+      
+    ]
+  },
+  "status": {
+    "resCode": "000000",
+    "resType": "S",
+    "resDesc": "Successful",
+    "headerLine": null
+  }
+}

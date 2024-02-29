@@ -1,4 +1,5 @@
 import * as listCountry from './data/listCountry.json';
+import * as timeZone from './data/timeZone.json';
 import { HttpService } from '@nestjs/axios';
 import { HttpException, HttpStatus, Injectable } from '@nestjs/common';
 import { AxiosError } from 'axios';
@@ -77,5 +78,10 @@ export class RoamingService {
     );
 
     return data;
+  }
+
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  async getTimeZone(lang: string, countryCode: string): Promise<any> {
+    return timeZone;
   }
 }
