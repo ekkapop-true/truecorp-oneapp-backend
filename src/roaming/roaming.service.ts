@@ -86,8 +86,6 @@ export class RoamingService {
   }
 
   async getIddRates(lang: string, countryCode: string): Promise<any> {
-    console.log(countryCode);
-    console.log(lang);
     const headersRequest = {
       Sessionid: 'O2024030113531747741692',
       Sourcesystemid: 'ESVWEB',
@@ -116,7 +114,7 @@ export class RoamingService {
           }),
         ),
     );
-    console.log('data' + JSON.stringify(data));
+
     return data;
   }
 }
