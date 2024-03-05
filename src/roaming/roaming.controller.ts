@@ -47,4 +47,14 @@ export class RoamingController {
   ) {
     return this.roamingService.getTimeZone(lang, countryCode);
   }
+
+  @Public()
+  @Get('getIddRates?')
+  @HttpCode(HttpStatus.OK)
+  getIddRates(
+    @Query('lang') lang: string,
+    @Query('countryCode') countryCode: string,
+  ) {
+    return this.roamingService.getIddRates(lang, countryCode);
+  }
 }
