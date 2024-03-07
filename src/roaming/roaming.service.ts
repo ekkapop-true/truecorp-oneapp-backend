@@ -1,4 +1,5 @@
 import * as listCountry from './data/listCountry.json';
+import * as timeZone from './data/timeZone.json';
 import { HttpService } from '@nestjs/axios';
 import { HttpException, HttpStatus, Injectable } from '@nestjs/common';
 import { AxiosError } from 'axios';
@@ -67,6 +68,44 @@ export class RoamingService {
       this.httpService
         .get(
           'https://ddchpackagetest.test.dtac.co.th/api/mobpackage/GetDataRoamingRates?lang=' +
+            lang +
+            '&countryCode=' +
+            countryCode,
+          { headers: headersRequest },
+        )
+        .pipe(
+          catchError((error: AxiosError) => {
+            throw new HttpException(error.response, HttpStatus.BAD_REQUEST);
+            // throw 'An error happened!';
+          }),
+        ),
+    );
+
+    return data;
+  }
+
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  async getTimeZone(lang: string, countryCode: string): Promise<any> {
+    return timeZone;
+  }
+
+  async getIddRates(lang: string, countryCode: string): Promise<any> {
+    const headersRequest = {
+      Sessionid: 'O2024030113531747741692',
+      Sourcesystemid: 'ESVWEB',
+      stamp:
+        '4842a267e9f9427899a277943744ac1a0a521de0ad0cf8447ec2ffbe2ecd7d5251b5e72e58fd65f4fe81b8706e3c0a4199bdcb4e3b8e4aab835a4fdcfbb007ad0854a8979faafa02082c3200b25dbf946a724694387d9bf0f20b4c9ed6cfba89',
+    };
+    const path =
+      'https://ddchpackagetest.test.dtac.co.th/api/mobpackage/GetDataIDDRates?chnlId=MOB&sessionId=1234&lang=' +
+      lang +
+      '&countryCode=' +
+      countryCode;
+    console.log('link' + path);
+    const { data } = await firstValueFrom(
+      this.httpService
+        .get(
+          'https://ddchpackagetest.test.dtac.co.th/api/mobpackage/GetDataIDDRates?chnlId=MOB&sessionId=1234&lang=' +
             lang +
             '&countryCode=' +
             countryCode,
