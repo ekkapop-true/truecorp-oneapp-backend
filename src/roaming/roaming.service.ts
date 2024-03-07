@@ -22,10 +22,12 @@ export class RoamingService {
     console.log('query subrType: ', subrType);
 
     const headersRequest = {
-      Sessionid: 'O2024022222381701113239',
-      Sourcesystemid: 'ESVWEB',
+      sessionId: 'O2024022815071124459629',
+      sourceSystemId: 'ESVWEB',
       stamp:
-        '204b1eb4c330b569fd5b675d1b3d7da60a521de0ad0cf8447ec2ffbe2ecd7d5251b5e72e58fd65f4fe81b8706e3c0a4199bdcb4e3b8e4aab835a4fdcfbb007ad1c3e100cd86a12127b1e1f0b7bdee960210cee4ee728bd83d1bf70ceb7c2d5f0',
+        '227f160662036f5b92bcd75372d4d4db96a38dd3b2b9badc79cba9b8ee693f68f6cd81972d108343a8ddb5a5827992c199bdcb4e3b8e4aab835a4fdcfbb007adce91be89eff78eb4c0d91da6ea1f875b4ca3320a639281d7a087d4cdfbf11bf2',
+      // stamp:
+      //   '204b1eb4c330b569fd5b675d1b3d7da60a521de0ad0cf8447ec2ffbe2ecd7d5251b5e72e58fd65f4fe81b8706e3c0a4199bdcb4e3b8e4aab835a4fdcfbb007ad1c3e100cd86a12127b1e1f0b7bdee960210cee4ee728bd83d1bf70ceb7c2d5f0',
     };
     const { data } = await firstValueFrom(
       this.httpService
@@ -45,6 +47,8 @@ export class RoamingService {
           }),
         ),
     );
+
+    console.log('data : ', data);
 
     return data;
   }
