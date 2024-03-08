@@ -5,9 +5,19 @@ import { HttpService } from '@nestjs/axios';
 import { catchError, firstValueFrom } from 'rxjs';
 import { AxiosError } from 'axios';
 
-export interface ICategoryHeaders {
+export interface ICategoryParams {
   brand: string;
   osVersion: string;
+}
+
+export interface ICategoryHeaders {
+  sourcesystemid: string;
+  sessionid: string;
+  platform: string;
+  version: string;
+  language: string;
+  deviceid: string;
+  authorization: string;
 }
 @Injectable()
 export class CategoryService {
@@ -16,18 +26,20 @@ export class CategoryService {
   async mddCategory({
     useMock,
     params,
+    headersRequestApi,
   }: {
     useMock: boolean;
-    params: ICategoryHeaders;
+    params: ICategoryParams;
+    headersRequestApi: ICategoryHeaders;
   }): Promise<any> {
-    const headersRequest = {
-      Sessionid: 'session111',
-      Sourcesystemid: 'TRUEAPP',
-      platform: 'IOS',
-      version: '1',
-      language: 'EN',
-      deviceId: 'D001',
-      Authorization: 'test',
+    const headersRequestTmp = {
+      Sessionid: headersRequestApi.sessionid,
+      Sourcesystemid: headersRequestApi.sourcesystemid,
+      platform: headersRequestApi.platform,
+      version: headersRequestApi.platform,
+      language: headersRequestApi.language,
+      deviceId: headersRequestApi.deviceid,
+      Authorization: headersRequestApi.authorization,
     };
 
     if (useMock) {
@@ -40,7 +52,7 @@ export class CategoryService {
           'http://trueapp-commonapi-dev.true.th/category/mddCategory/Kyoh6',
           {
             params: params,
-            headers: headersRequest,
+            headers: headersRequestTmp,
           },
         )
         .pipe(
