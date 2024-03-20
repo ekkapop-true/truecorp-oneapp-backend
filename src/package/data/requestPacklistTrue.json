@@ -75,7 +75,7 @@
                   "quota": "YouTube",
                   "desc": "Unlimited",
                   "priority": "1",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "2",
@@ -83,7 +83,7 @@
                   "quota": "",
                   "desc": "",
                   "priority": "2",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 }
               ],
               "specialDet": [
@@ -126,7 +126,7 @@
               "validity": "3",
               "validityDesc": "days",
               "termCond": "Price not included VAT",
-              "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png",
+              "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png",
               "image": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/PACKAGE/20171106_134959741_OCS_default_banner.jpg",
               "banner": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/BANNER/image_package_lib_BANNER_20210315165018604f2dda8f4c1.jpg",
               "benefit": [
@@ -136,7 +136,7 @@
                   "quota": "512",
                   "desc": "Kbps",
                   "priority": "1",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "2",
@@ -144,7 +144,7 @@
                   "quota": "",
                   "desc": "",
                   "priority": "2",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 }
               ],
               "specialDet": [
@@ -246,7 +246,7 @@
                   "service": "Net",
                   "quota": "3",
                   "desc": "GB",
-                  "extension": "test",
+                  "extension": "Net",
                   "priority": "4",
                   "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
                 },
@@ -255,7 +255,7 @@
                   "service": "Net",
                   "quota": "Unlimited",
                   "desc": "3 Mbps\t",
-                  "extension": "test",
+                  "extension": "Net",
                   "priority": "3",
                   "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
                 }
@@ -295,7 +295,7 @@
                   "desc": "Mbps",
                   "priority": "2",
                   "extension": "Unlimited",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "1",
@@ -304,25 +304,25 @@
                   "desc": "hours",
                   "priority": "1",
                   "extension": "call true number",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 },
                 {
                   "id": "4",
                   "service": "Net",
                   "quota": "3",
                   "desc": "GB",
-                  "extension": "test",
+                  "extension": "Net",
                   "priority": "4",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "3",
                   "service": "Net",
                   "quota": "Unlimited",
                   "desc": "3 Mbps\t",
-                  "extension": "test",
+                  "extension": "Net",
                   "priority": "3",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 }
               ],
               "specialDet": [
@@ -359,7 +359,7 @@
                   "desc": "Mpbs",
                   "extension": "unlimited",
                   "priority": "4",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "1",
@@ -368,25 +368,25 @@
                   "desc": "hours",
                   "priority": "1",
                   "extension": "call true number",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 },
                 {
                   "id": "4",
                   "service": "Net",
                   "quota": "3",
                   "desc": "GB",
-                  "extension": "test",
+                  "extension": "Net",
                   "priority": "4",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "3",
                   "service": "Net",
                   "quota": "Unlimited",
                   "desc": "3 Mbps\t",
-                  "extension": "test",
+                  "extension": "Net",
                   "priority": "3",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 }
               ],
               "specialDet": [
@@ -423,7 +423,7 @@
                   "desc": "Mbps",
                   "priority": "2",
                   "extension": "Unlimited",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "1",
@@ -432,7 +432,7 @@
                   "desc": "hours",
                   "extension": "call true number",
                   "priority": "1",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 }
               ],
               "specialDet": [
@@ -447,7 +447,7 @@
               "coin": "11",
               "journey": "PackageSubscription",
               "offerGroupType": "MDD_PREPAID",
-              "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png"
+              "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png"
             }
           ],
           "offerInfo": [],
@@ -480,7 +480,7 @@
                   "desc": "Mbps",
                   "priority": "2",
                   "extension": "Unlimited",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "1",
@@ -489,7 +489,7 @@
                   "desc": "hours",
                   "priority": "1",
                   "extension": "call true number",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 }
               ],
               "specialDet": [
@@ -504,7 +504,7 @@
               "coin": "11",
               "journey": "PackageSubscription",
               "offerGroupType": "MDD_PREPAID",
-              "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png"
+              "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png"
             },
             {
               "packType": "ADDITIONAL",
@@ -526,7 +526,7 @@
                   "desc": "Mbps",
                   "priority": "2",
                   "extension": "Unlimited",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "1",
@@ -535,7 +535,7 @@
                   "desc": "hours",
                   "extension": "call true number",
                   "priority": "1",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 }
               ],
               "specialDet": [
@@ -550,7 +550,7 @@
               "coin": "11",
               "journey": "PackageSubscription",
               "offerGroupType": "MDD_PREPAID",
-              "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png"
+              "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png"
             }
           ],
           "offerInfo": [],
@@ -581,18 +581,18 @@
                   "service": "Net",
                   "quota": "3",
                   "desc": "GB",
-                  "extension": "test",
+                  "extension": "Net",
                   "priority": "4",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "3",
                   "service": "Net",
                   "quota": "Unlimited",
                   "desc": "3 Mbps\t",
-                  "extension": "test",
+                  "extension": "Net",
                   "priority": "3",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "1",
@@ -601,7 +601,7 @@
                   "desc": "1 Mbps",
                   "extension": "at max speed",
                   "priority": "1",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "2",
@@ -610,7 +610,7 @@
                   "desc": "mins",
                   "extension": "Test\t",
                   "priority": "2",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 }
               ],
               "specialDet": [
@@ -625,7 +625,7 @@
               "coin": "11",
               "journey": "PackageSubscription",
               "offerGroupType": "MDD_PREPAID",
-              "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png"
+              "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png"
             },
             {
               "packType": "ADDITIONAL",
@@ -640,7 +640,7 @@
               "validity": "30",
               "validityDesc": "days",
               "termCond": "- Price is excluded VAT.\n- To subscribe from 18 Aug 2023 to 31 Jan 2024.\n- You can use internet at max speed 20Mbps, according to each package volume, then continue to use internet unlimited at max speed 384Kbps.\n- You will get free unlimited dtac wifi.\n- This package will be not auto renewal when the internet usage is exhausted and want to subscirbe again, you can subscirbe immediately.\n- The maximum speed at 20Mbps/384Kbps, it's depending on the service area or use the service at that time.\n- The Company reserves the right to manage network as appropriate in order to ensure network quality for all users.  The Company may consider limiting or reducing bit torrent usage, download or upload bit file or any usage that consumes big data volume that could impact network quality for other users, affect use, or cause injustice or damage to other users or the company's network or service. Reduce speed could be lower than what stated in package depending on usage, area and device.\n- The company reserves the right to change the promotion as appropriate.",
-              "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png",
+              "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png",
               "banner": "https://online.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/BANNER/image_package_lib_BANNER_20230920151815650aaac78d5e0.jpg",
               "specialDet1": "Shock Price package",
               "benefit": [
@@ -651,7 +651,7 @@
                   "desc": "GB",
                   "extension": "at speed 20Mbps then unlimited at 384Kbps",
                   "priority": "1",
-                  "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "3",
@@ -667,7 +667,7 @@
                   "quota": "",
                   "desc": "",
                   "priority": "4",
-                  "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 }
               ],
               "specialDet": [
@@ -712,7 +712,7 @@
               "validity": "30",
               "validityDesc": "days",
               "termCond": "- Price is excluded VAT\n- To subscribe from 23 Nov 2023 to 31 Jan 2024.\n- You can use internet at max speed 10Mbps\n- This package will be not auto renewal, if want to subscirbe again, you can subscirbe immediately.\n- The maximum speed at 10Mbps, it's depending on the service area or use the service at that time.\n- The Company reserves the right to manage network as appropriate in order to ensure network quality for all users.  The Company may consider limiting or reducing bit torrent usage, download or upload bit file or any usage that consumes big data volume that could impact network quality for other users, affect use, or cause injustice or damage to other users or the company's network or service. Reduce speed could be lower than what stated in package depending on usage, area and device.\n- The company reserves the right to change the promotion as appropriate.",
-              "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png",
+              "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png",
               "specialDet1": "Special discount package",
               "benefit": [
                 {
@@ -722,7 +722,7 @@
                   "desc": "10Mbps",
                   "extension": "Watch movies or Live streaming very smoothly",
                   "priority": "1",
-                  "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "2",
@@ -730,7 +730,7 @@
                   "quota": "",
                   "desc": "",
                   "priority": "2",
-                  "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 }
               ],
               "specialDet": [
@@ -774,7 +774,7 @@
               "validity": "10",
               "validityDesc": "days",
               "termCond": "- Price is excluded VAT.\n- To subscribe from 1 Dec 2023 to 31 Jan 2024.\n- Internet at max speed 24GB. The maximum speed, it's depending on the service area.\n- Rewards Coins can be redeemed for 199 coins + 115 baht (excl.VAT).\n- After finished your internet quota, excess internet is charged base on your main promotion.\n- The Company reserves the right to manage network as appropriate in order to ensure network quality for all users.  The Company may consider limiting or reducing bit torrent usage, download or upload bit file or any usage that consumes big data volume that could impact network quality for other users, affect use, or cause injustice or damage to other users or the company's network or service. Reduce speed could be lower than what stated in package depending on usage, area and device.\n- The company reserves the right to change the promotion as appropriate.",
-              "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png",
+              "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png",
               "specialDet1": "Promotion 12.12",
               "benefit": [
                 {
@@ -784,7 +784,7 @@
                   "desc": "GB",
                   "extension": "at max speed",
                   "priority": "1",
-                  "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "2",
@@ -792,7 +792,7 @@
                   "quota": "",
                   "desc": "",
                   "priority": "2",
-                  "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 }
               ],
               "specialDet": [
@@ -949,7 +949,7 @@
                     "quota": "YouTube",
                     "desc": "Unlimited",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "2",
@@ -957,7 +957,7 @@
                     "quota": "",
                     "desc": "",
                     "priority": "2",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -1000,7 +1000,7 @@
                 "validity": "3",
                 "validityDesc": "days",
                 "termCond": "Price not included VAT",
-                "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png",
+                "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png",
                 "image": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/PACKAGE/20171106_134959741_OCS_default_banner.jpg",
                 "banner": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/BANNER/image_package_lib_BANNER_20210315165018604f2dda8f4c1.jpg",
                 "benefit": [
@@ -1010,7 +1010,7 @@
                     "quota": "512",
                     "desc": "Kbps",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "2",
@@ -1018,7 +1018,7 @@
                     "quota": "",
                     "desc": "",
                     "priority": "2",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -1099,36 +1099,36 @@
                   {
                     "id": "2",
                     "service": "Net",
-                    "quota": "Unlimited 11",
+                    "quota": "11",
                     "desc": "mbps",
                     "priority": "2",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "1",
                     "service": "Voice",
-                    "quota": "within network",
+                    "quota": "24",
                     "desc": "24 Hrs",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   },
                   {
                     "id": "4",
                     "service": "Net",
                     "quota": "3",
                     "desc": "GB",
-                    "extension": "test",
+                    "extension": "Net",
                     "priority": "4",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "3",
                     "service": "Net",
                     "quota": "Unlimited",
                     "desc": "3 Mbps\t",
-                    "extension": "test",
+                    "extension": "Net",
                     "priority": "3",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   }
                 ],
                 "specialDet": [
@@ -1143,7 +1143,7 @@
                 "coin": "11",
                 "journey": "PackageSubscription",
                 "offerGroupType": "MDD_PREPAID",
-                "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png"
+                "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png"
               },
               {
                 "packType": "ADDITIONAL",
@@ -1169,28 +1169,28 @@
                   {
                     "id": "1",
                     "service": "Voice",
-                    "quota": "within network",
+                    "quota": "24",
                     "desc": "60 Hrs",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   },
                   {
                     "id": "4",
                     "service": "Net",
                     "quota": "3",
                     "desc": "GB",
-                    "extension": "test",
+                    "extension": "Net",
                     "priority": "4",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "3",
                     "service": "Net",
                     "quota": "Unlimited",
                     "desc": "3 Mbps\t",
-                    "extension": "test",
+                    "extension": "Net",
                     "priority": "3",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   }
                 ],
                 "specialDet": [
@@ -1205,7 +1205,7 @@
                 "coin": "11",
                 "journey": "PackageSubscription",
                 "offerGroupType": "MDD_PREPAID",
-                "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png"
+                "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png"
               },
               {
                 "packType": "ADDITIONAL",
@@ -1223,18 +1223,18 @@
                   {
                     "id": "2",
                     "service": "Net",
-                    "quota": "Unlimited 10",
+                    "quota": "10",
                     "desc": "mbps",
                     "priority": "2",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "1",
                     "service": "Voice",
-                    "quota": "within network",
+                    "quota": "24",
                     "desc": "24 Hrs",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -1249,7 +1249,7 @@
                 "coin": "11",
                 "journey": "PackageSubscription",
                 "offerGroupType": "MDD_PREPAID",
-                "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png"
+                "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png"
               }
             ],
             "offerInfo": [],
@@ -1278,18 +1278,18 @@
                   {
                     "id": "2",
                     "service": "Net",
-                    "quota": "Unlimited 10",
+                    "quota": "10",
                     "desc": "mbps",
                     "priority": "2",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "1",
                     "service": "Voice",
-                    "quota": "within network",
+                    "quota": "24",
                     "desc": "24 Hrs",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -1304,7 +1304,7 @@
                 "coin": "11",
                 "journey": "PackageSubscription",
                 "offerGroupType": "MDD_PREPAID",
-                "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png"
+                "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png"
               },
               {
                 "packType": "ADDITIONAL",
@@ -1322,18 +1322,18 @@
                   {
                     "id": "2",
                     "service": "Net",
-                    "quota": "Unlimited 10",
+                    "quota": "10",
                     "desc": "mbps",
                     "priority": "2",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "1",
                     "service": "Voice",
-                    "quota": "within network",
+                    "quota": "24",
                     "desc": "24 Hrs",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -1348,7 +1348,7 @@
                 "coin": "11",
                 "journey": "PackageSubscription",
                 "offerGroupType": "MDD_PREPAID",
-                "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png"
+                "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png"
               }
             ],
             "offerInfo": [],
@@ -1379,18 +1379,18 @@
                     "service": "Net",
                     "quota": "3",
                     "desc": "GB",
-                    "extension": "test",
+                    "extension": "Net",
                     "priority": "4",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "3",
                     "service": "Net",
                     "quota": "Unlimited",
                     "desc": "3 Mbps\t",
-                    "extension": "test",
+                    "extension": "Net",
                     "priority": "3",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "1",
@@ -1399,7 +1399,7 @@
                     "desc": "1 Mbps",
                     "extension": "at max speed",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "2",
@@ -1408,7 +1408,7 @@
                     "desc": "mins",
                     "extension": "Test\t",
                     "priority": "2",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -1423,7 +1423,7 @@
                 "coin": "11",
                 "journey": "PackageSubscription",
                 "offerGroupType": "MDD_PREPAID",
-                "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png"
+                "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png"
               },
               {
                 "packType": "ADDITIONAL",
@@ -1438,7 +1438,7 @@
                 "validity": "30",
                 "validityDesc": "days",
                 "termCond": "- Price is excluded VAT.\n- To subscribe from 18 Aug 2023 to 31 Jan 2024.\n- You can use internet at max speed 20Mbps, according to each package volume, then continue to use internet unlimited at max speed 384Kbps.\n- You will get free unlimited dtac wifi.\n- This package will be not auto renewal when the internet usage is exhausted and want to subscirbe again, you can subscirbe immediately.\n- The maximum speed at 20Mbps/384Kbps, it's depending on the service area or use the service at that time.\n- The Company reserves the right to manage network as appropriate in order to ensure network quality for all users.  The Company may consider limiting or reducing bit torrent usage, download or upload bit file or any usage that consumes big data volume that could impact network quality for other users, affect use, or cause injustice or damage to other users or the company's network or service. Reduce speed could be lower than what stated in package depending on usage, area and device.\n- The company reserves the right to change the promotion as appropriate.",
-                "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png",
+                "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png",
                 "banner": "https://online.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/BANNER/image_package_lib_BANNER_20230920151815650aaac78d5e0.jpg",
                 "specialDet1": "Shock Price package",
                 "benefit": [
@@ -1449,7 +1449,7 @@
                     "desc": "GB",
                     "extension": "at speed 20Mbps then unlimited at 384Kbps",
                     "priority": "1",
-                    "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "3",
@@ -1465,7 +1465,7 @@
                     "quota": "",
                     "desc": "",
                     "priority": "4",
-                    "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -1510,7 +1510,7 @@
                 "validity": "30",
                 "validityDesc": "days",
                 "termCond": "- Price is excluded VAT\n- To subscribe from 23 Nov 2023 to 31 Jan 2024.\n- You can use internet at max speed 10Mbps\n- This package will be not auto renewal, if want to subscirbe again, you can subscirbe immediately.\n- The maximum speed at 10Mbps, it's depending on the service area or use the service at that time.\n- The Company reserves the right to manage network as appropriate in order to ensure network quality for all users.  The Company may consider limiting or reducing bit torrent usage, download or upload bit file or any usage that consumes big data volume that could impact network quality for other users, affect use, or cause injustice or damage to other users or the company's network or service. Reduce speed could be lower than what stated in package depending on usage, area and device.\n- The company reserves the right to change the promotion as appropriate.",
-                "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png",
+                "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png",
                 "specialDet1": "Special discount package",
                 "benefit": [
                   {
@@ -1520,7 +1520,7 @@
                     "desc": "10Mbps",
                     "extension": "Watch movies or Live streaming very smoothly",
                     "priority": "1",
-                    "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "2",
@@ -1528,7 +1528,7 @@
                     "quota": "",
                     "desc": "",
                     "priority": "2",
-                    "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -1572,7 +1572,7 @@
                 "validity": "10",
                 "validityDesc": "days",
                 "termCond": "- Price is excluded VAT.\n- To subscribe from 1 Dec 2023 to 31 Jan 2024.\n- Internet at max speed 24GB. The maximum speed, it's depending on the service area.\n- Rewards Coins can be redeemed for 199 coins + 115 baht (excl.VAT).\n- After finished your internet quota, excess internet is charged base on your main promotion.\n- The Company reserves the right to manage network as appropriate in order to ensure network quality for all users.  The Company may consider limiting or reducing bit torrent usage, download or upload bit file or any usage that consumes big data volume that could impact network quality for other users, affect use, or cause injustice or damage to other users or the company's network or service. Reduce speed could be lower than what stated in package depending on usage, area and device.\n- The company reserves the right to change the promotion as appropriate.",
-                "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_20231122111602655d80823c6db.png",
+                "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png",
                 "specialDet1": "Promotion 12.12",
                 "benefit": [
                   {
@@ -1582,7 +1582,7 @@
                     "desc": "GB",
                     "extension": "at max speed",
                     "priority": "1",
-                    "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "2",
@@ -1590,7 +1590,7 @@
                     "quota": "",
                     "desc": "",
                     "priority": "2",
-                    "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [

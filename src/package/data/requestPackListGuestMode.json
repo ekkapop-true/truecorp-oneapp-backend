@@ -75,7 +75,7 @@
                   "quota": "YouTube",
                   "desc": "Unlimited",
                   "priority": "1",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "2",
@@ -83,7 +83,7 @@
                   "quota": "",
                   "desc": "",
                   "priority": "2",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 }
               ],
               "specialDet": [
@@ -136,7 +136,7 @@
                   "quota": "512",
                   "desc": "Kbps",
                   "priority": "1",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "2",
@@ -144,7 +144,7 @@
                   "quota": "",
                   "desc": "",
                   "priority": "2",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 }
               ],
               "specialDet": [
@@ -225,36 +225,36 @@
                 {
                   "id": "2",
                   "service": "Net",
-                  "quota": "Unlimited 11",
+                  "quota": "11",
                   "desc": "mbps",
                   "priority": "2",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "1",
                   "service": "Voice",
-                  "quota": "within network",
+                  "quota": "24",
                   "desc": "24 Hrs",
                   "priority": "1",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 },
                 {
                   "id": "4",
                   "service": "Net",
                   "quota": "3",
                   "desc": "GB",
-                  "extension": "test",
+                  "extension": "Net",
                   "priority": "4",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "3",
                   "service": "Net",
                   "quota": "Unlimited",
                   "desc": "3 Mbps\t",
-                  "extension": "test",
+                  "extension": "Net",
                   "priority": "3",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 }
               ],
               "specialDet": [
@@ -295,28 +295,28 @@
                 {
                   "id": "1",
                   "service": "Voice",
-                  "quota": "within network",
+                  "quota": "24",
                   "desc": "60 Hrs",
                   "priority": "1",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 },
                 {
                   "id": "4",
                   "service": "Net",
                   "quota": "3",
                   "desc": "GB",
-                  "extension": "test",
+                  "extension": "Net",
                   "priority": "4",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "3",
                   "service": "Net",
                   "quota": "Unlimited",
                   "desc": "3 Mbps\t",
-                  "extension": "test",
+                  "extension": "Net",
                   "priority": "3",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 }
               ],
               "specialDet": [
@@ -360,18 +360,18 @@
                 {
                   "id": "2",
                   "service": "Net",
-                  "quota": "Unlimited 10",
+                  "quota": "10",
                   "desc": "mbps",
                   "priority": "2",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "1",
                   "service": "Voice",
-                  "quota": "within network",
+                  "quota": "24",
                   "desc": "24 Hrs",
                   "priority": "1",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 }
               ],
               "specialDet": [
@@ -404,18 +404,18 @@
                 {
                   "id": "2",
                   "service": "Net",
-                  "quota": "Unlimited 10",
+                  "quota": "10",
                   "desc": "mbps",
                   "priority": "2",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                 },
                 {
                   "id": "1",
                   "service": "Voice",
-                  "quota": "within network",
+                  "quota": "24",
                   "desc": "24 Hrs",
                   "priority": "1",
-                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                  "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                 }
               ],
               "specialDet": [
@@ -547,7 +547,7 @@
                     "quota": "YouTube",
                     "desc": "Unlimited",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "2",
@@ -555,7 +555,7 @@
                     "quota": "",
                     "desc": "",
                     "priority": "2",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -608,7 +608,7 @@
                     "quota": "512",
                     "desc": "Kbps",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "2",
@@ -616,7 +616,7 @@
                     "quota": "",
                     "desc": "",
                     "priority": "2",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -697,36 +697,36 @@
                   {
                     "id": "2",
                     "service": "Net",
-                    "quota": "Unlimited 11",
+                    "quota": "11",
                     "desc": "mbps",
                     "priority": "2",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "1",
                     "service": "Voice",
-                    "quota": "within network",
+                    "quota": "24",
                     "desc": "24 Hrs",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   },
                   {
                     "id": "4",
                     "service": "Net",
                     "quota": "3",
                     "desc": "GB",
-                    "extension": "test",
+                    "extension": "Net",
                     "priority": "4",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "3",
                     "service": "Net",
                     "quota": "Unlimited",
                     "desc": "3 Mbps\t",
-                    "extension": "test",
+                    "extension": "Net",
                     "priority": "3",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   }
                 ],
                 "specialDet": [
@@ -767,28 +767,28 @@
                   {
                     "id": "1",
                     "service": "Voice",
-                    "quota": "within network",
+                    "quota": "24",
                     "desc": "60 Hrs",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   },
                   {
                     "id": "4",
                     "service": "Net",
                     "quota": "3",
                     "desc": "GB",
-                    "extension": "test",
+                    "extension": "Net",
                     "priority": "4",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "3",
                     "service": "Net",
                     "quota": "Unlimited",
                     "desc": "3 Mbps\t",
-                    "extension": "test",
+                    "extension": "Net",
                     "priority": "3",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   }
                 ],
                 "specialDet": [
@@ -821,18 +821,18 @@
                   {
                     "id": "2",
                     "service": "Net",
-                    "quota": "Unlimited 10",
+                    "quota": "10",
                     "desc": "mbps",
                     "priority": "2",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "1",
                     "service": "Voice",
-                    "quota": "within network",
+                    "quota": "24",
                     "desc": "24 Hrs",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -876,18 +876,18 @@
                   {
                     "id": "2",
                     "service": "Net",
-                    "quota": "Unlimited 10",
+                    "quota": "10",
                     "desc": "mbps",
                     "priority": "2",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "1",
                     "service": "Voice",
-                    "quota": "within network",
+                    "quota": "24",
                     "desc": "24 Hrs",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -920,18 +920,18 @@
                   {
                     "id": "2",
                     "service": "Net",
-                    "quota": "Unlimited 10",
+                    "quota": "10",
                     "desc": "mbps",
                     "priority": "2",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "1",
                     "service": "Voice",
-                    "quota": "within network",
+                    "quota": "24",
                     "desc": "24 Hrs",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -977,18 +977,18 @@
                     "service": "Net",
                     "quota": "3",
                     "desc": "GB",
-                    "extension": "test",
+                    "extension": "Net",
                     "priority": "4",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "3",
                     "service": "Net",
                     "quota": "Unlimited",
                     "desc": "3 Mbps\t",
-                    "extension": "test",
+                    "extension": "Net",
                     "priority": "3",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "1",
@@ -997,7 +997,7 @@
                     "desc": "1 Mbps",
                     "extension": "at max speed",
                     "priority": "1",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "2",
@@ -1006,7 +1006,7 @@
                     "desc": "mins",
                     "extension": "Test\t",
                     "priority": "2",
-                    "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -1047,7 +1047,7 @@
                     "desc": "GB",
                     "extension": "at speed 20Mbps then unlimited at 384Kbps",
                     "priority": "1",
-                    "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "3",
@@ -1063,7 +1063,7 @@
                     "quota": "",
                     "desc": "",
                     "priority": "4",
-                    "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -1118,7 +1118,7 @@
                     "desc": "10Mbps",
                     "extension": "Watch movies or Live streaming very smoothly",
                     "priority": "1",
-                    "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "2",
@@ -1126,7 +1126,7 @@
                     "quota": "",
                     "desc": "",
                     "priority": "2",
-                    "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
@@ -1180,7 +1180,7 @@
                     "desc": "GB",
                     "extension": "at max speed",
                     "priority": "1",
-                    "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_internet.png"
                   },
                   {
                     "id": "2",
@@ -1188,7 +1188,7 @@
                     "quota": "",
                     "desc": "",
                     "priority": "2",
-                    "catagoryIcon": "https://online.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                    "catagoryIcon": "https://oneapp.dtac.true.ekkapop.com/assets/icons/icon_phone.png"
                   }
                 ],
                 "specialDet": [
