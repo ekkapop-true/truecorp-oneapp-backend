@@ -42,33 +42,36 @@ export class PurchaseService {
         )
         .pipe(
           catchError((error: AxiosError) => {
-            console.log(error.response.data);
-            // return error.response.data;
+            console.log('checkkk >>> ', error.response.data);
             throw new HttpException(
-              {
-                status: {
-                  statusType: 'B',
-                  errorCode: 'B-UPS-71023',
-                  errorMessage: "Subscriber's credit is inadequate",
-                  server: 'kalium15.tac.co.th',
-                  hostId: '38263b08dc21',
-                  transactionId: 'ESVWEB20240223010159319917',
-                },
-                data: {
-                  subrnumb: '66949296202',
-                  resultmsg:
-                    "Your transaction can't be completed. This number has insufficient balance.",
-                  packcode: '21200496',
-                  offerFlag: '0',
-                  wootricInfo: {
-                    dtacId:
-                      'c14b848000e906a7579116487851d37713d193604befc5ae0b25cc443fc3652d',
-                    journey: 'insufficient',
-                  },
-                },
-              },
+              error.response.data,
               HttpStatus.BAD_REQUEST,
             );
+            // throw new HttpException(
+            //   {
+            //     status: {
+            //       statusType: 'B',
+            //       errorCode: 'B-UPS-71023',
+            //       errorMessage: "Subscriber's credit is inadequate",
+            //       server: 'kalium15.tac.co.th',
+            //       hostId: '38263b08dc21',
+            //       transactionId: 'ESVWEB20240223010159319917',
+            //     },
+            //     data: {
+            //       subrnumb: '66949296202',
+            //       resultmsg:
+            //         "Your transaction can't be completed. This number has insufficient balance.",
+            //       packcode: '21200496',
+            //       offerFlag: '0',
+            //       wootricInfo: {
+            //         dtacId:
+            //           'c14b848000e906a7579116487851d37713d193604befc5ae0b25cc443fc3652d',
+            //         journey: 'insufficient',
+            //       },
+            //     },
+            //   },
+            //   HttpStatus.BAD_REQUEST,
+            // );
             // throw 'An error happened!';
           }),
         ),

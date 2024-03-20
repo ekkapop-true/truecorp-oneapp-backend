@@ -209,6 +209,7 @@
           "statAction": "clickpk",
           "categoryName": "true 5G แบบเติมเงิน",
           "packageInfo": [
+            
             {
               "packType": "ADDITIONAL",
               "packageCode": "22221111",
@@ -332,6 +333,60 @@
               "journey": "PackageSubscription",
               "offerGroupType": "MDD_PREPAID",
               "tag": "https://oneapp.dtac.true.ekkapop.com/assets/images/sale_tag_true_5g.png"
+            },
+            {
+              "packType": "ADDITIONAL",
+              "packageCode": "21500965",
+              "encryptedPackCode": "9-dls41vsx9EUr0dTXBc-Q==",
+              "desc": "Internet Booster 349Baht 50GB for 30 days",
+              "originalPrice": "499.50",
+              "price": "349.00",
+              "shortDesc": "21500965 Internet Booster 50GB for 30 days",
+              "longDesc": "Internet Booster 349Baht 50GB for 30 days",
+              "validity": "30",
+              "validityDesc": "days",
+              "termCond": "- Internet Booster, enjoy 50GB more internet at maximum speed at only 349 Baht, valid for 30 days - This price does not include VAT",
+              "tag": "https://online.test.dtac.co.th/mobileweb/resources/esv/cms/packageImageLib/TAG/image_package_lib_TAG_2023013111532463d89ec442e08.png",
+              "benefit": [
+                {
+                  "id": "1",
+                  "service": "Net",
+                  "quota": "50",
+                  "desc": "GB",
+                  "priority": "1",
+                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-net.png"
+                },
+                {
+                  "id": "2",
+                  "service": "Voice",
+                  "quota": "",
+                  "desc": "",
+                  "priority": "2",
+                  "catagoryIcon": "https://online.test.dtac.co.th/mobileweb/resources/EServiceMobile/Icon/ico-call.png"
+                }
+              ],
+              "specialDet": [
+                {
+                  "detail": "Super Special! The BIGGEST data with the LONGEST validity"
+                },
+                {
+                  "detail": "Get more high internet booster"
+                },
+                {
+                  "detail": "This price does not include VAT"
+                }
+              ],
+              "specialDetV3": [
+                "Super Special! The BIGGEST data with the LONGEST validity",
+                "Get more high internet booster",
+                "This price does not include VAT"
+              ],
+              "pre2PostOffer": "N",
+              "telpType": "T",
+              "validityInDays": 30.0,
+              "coin": "0",
+              "journey": "PackageSubscription",
+              "offerGroupType": "MDD_POSTPAID"
             }
           ],
           "offerInfo": [],
