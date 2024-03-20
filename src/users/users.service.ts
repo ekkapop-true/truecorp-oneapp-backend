@@ -21,16 +21,30 @@ export class UsersService {
   private readonly users = [
     {
       userId: 1,
-      username: 'john',
+      username: 'Ake',
       password: 'changeme',
       mobileNo: '0826579970',
-      consent_status: false,
+      consent_status: true,
     },
     {
       userId: 2,
       username: 'maria',
       password: 'guess',
       mobileNo: '0826579990',
+      consent_status: true,
+    },
+    {
+      userId: 3,
+      username: 'May',
+      password: 'guess',
+      mobileNo: '0823545070',
+      consent_status: true,
+    },
+    {
+      userId: 4,
+      username: 'Tle',
+      password: 'guess',
+      mobileNo: '0814800679',
       consent_status: true,
     },
   ];
