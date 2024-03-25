@@ -1,4 +1,11 @@
-import { Body, Controller, HttpCode, HttpStatus, Post } from '@nestjs/common';
+import {
+  Body,
+  Controller,
+  Headers,
+  HttpCode,
+  HttpStatus,
+  Post,
+} from '@nestjs/common';
 import { IRequestPackListBody, PackageService } from './package.service';
 import { Public } from 'src/auth/decorators/public.decorator';
 
@@ -9,7 +16,11 @@ export class PackageController {
   @Public()
   @Post('requestPackList')
   @HttpCode(HttpStatus.OK)
-  requestPackList(@Body() body: IRequestPackListBody) {
-    return this.packageService.requestPackList({ useMock: true, body: body });
+  requestPackList(@Body() body: IRequestPackListBody, @Headers() headers) {
+    return this.packageService.requestPackList({
+      useMock: false,
+      body: body,
+      headers: headers,
+    });
   }
 }
