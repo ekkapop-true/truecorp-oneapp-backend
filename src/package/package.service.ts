@@ -14,9 +14,9 @@ export interface IRequestPackListBody {
   trackingId: string;
   bannerType: string;
   mappingId: string;
-  dtacId: string;
-  dtacFrom: string;
-  brand: Brand;
+  dtacId?: string;
+  dtacFrom?: string;
+  brand?: Brand;
 }
 
 enum Brand {
@@ -31,26 +31,38 @@ export class PackageService {
   async requestPackList({
     useMock,
     body,
+    headers,
   }: {
     useMock: boolean;
     body: IRequestPackListBody;
+    headers: any;
   }): Promise<any> {
-    console.log('body: ', body);
+    // console.log('body: ', body);
+    // console.log('!useMock : ', !useMock);
+    // console.log('headers : ', headers['content-type']);
     if (!useMock) {
       const headersRequest = {
-        Sessionid: 'O2024022222381701113239',
-        Sourcesystemid: 'ESVWEB',
+        sourceSystemId: headers.sourcesystemid,
+        sessionId: headers.sessionid,
+        platform: headers.platform,
+        version: headers.version,
+        language: headers.language,
+        deviceId: headers.deviceid,
+        'Content-Type': headers['content-type'],
+        Authorization: headers.authorization,
       };
+      // console.log('headers : ', headersRequest);
       const { data } = await firstValueFrom(
         this.httpService
           .post(
-            'https://ddchpackagetest.test.dtac.co.th/api/upsell/packlistv2/requestPackListV3',
+            // 'https://ddchpackagetest.test.dtac.co.th/api/upsell/packlistv2/requestPackListV3',
+            'http://trueapp-commonapi-dev.true.th/package/commonPackage',
             body,
             { headers: headersRequest },
           )
           .pipe(
             catchError((error: AxiosError) => {
-              console.log(error.response.data);
+              console.log(error);
               throw new HttpException(
                 error.response.data,
                 // {
