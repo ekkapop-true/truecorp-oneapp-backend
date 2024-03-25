@@ -8,6 +8,7 @@ import { AxiosError } from 'axios';
 export interface ICategoryParams {
   brand: string;
   osVersion: string;
+  mappingId: string;
 }
 
 export interface ICategoryHeaders {
@@ -33,23 +34,24 @@ export class CategoryService {
     headersRequestApi: ICategoryHeaders;
   }): Promise<any> {
     const headersRequestTmp = {
-      Sessionid: headersRequestApi.sessionid,
-      Sourcesystemid: headersRequestApi.sourcesystemid,
+      sessionId: headersRequestApi.sessionid,
+      sourceSystemId: headersRequestApi.sourcesystemid,
       platform: headersRequestApi.platform,
       version: headersRequestApi.platform,
       language: headersRequestApi.language,
       deviceId: headersRequestApi.deviceid,
       Authorization: headersRequestApi.authorization,
+      'Content-Type': 'application/json',
     };
-
     if (useMock) {
       return mddCategory;
     }
-
+    //category/mddCategory/Kyoh6?brand=dtac&mappingId=Kyoh6&osVersion=NewApp
     const { data } = await firstValueFrom(
       this.httpService
         .get(
-          'http://trueapp-commonapi-dev.true.th/category/mddCategory/Kyoh6',
+          'http://trueapp-commonapi-dev.true.th/category/category/api/v1/mddCategory/' +
+            params.mappingId,
           {
             params: params,
             headers: headersRequestTmp,
