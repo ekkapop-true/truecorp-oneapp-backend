@@ -10,6 +10,7 @@ import { RoamingModule } from './roaming/roaming.module';
 import { HttpModule } from '@nestjs/axios';
 import { PurchaseModule } from './purchase/purchase.module';
 import { PurchaseService } from './purchase/purchase.service';
+import { InterestCmpModule } from './interest_cmp/interest_cmp.module';
 
 @Module({
   imports: [
@@ -20,6 +21,7 @@ import { PurchaseService } from './purchase/purchase.service';
     RoamingModule,
     HttpModule,
     PurchaseModule,
+    InterestCmpModule,
   ],
   controllers: [AppController],
   providers: [AppService, PackageService, PurchaseService],
