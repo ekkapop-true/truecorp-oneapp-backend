@@ -3,24 +3,61 @@ import { HttpException, HttpStatus, Injectable } from '@nestjs/common';
 import { AxiosError } from 'axios';
 import { catchError, firstValueFrom } from 'rxjs';
 
-export interface IInterestCmpBody {
+export interface IStatisticsBody {
+  registerDTTM: string;
+  action: string;
+  actionType: string;
+  channelID: string;
+  bannerID: string;
+  brand: string;
+  productID: string;
+  productType: string;
+  custNumb: string;
+  telpType: string;
+  platform: string;
+  device: string;
+  osVersion: string;
+  sdkVersion: string;
+  contentType: string;
+  remark: string;
+  transactionId: string;
+  trackingId: string;
+  partnerId: string;
+  contents: Content[];
+}
+
+export interface Content {
+  contentId: string;
+  offerCode: string;
+  offerTracking: string;
+  price: number;
+  clickAmt: number;
+  successAmt: number;
+  responseCode: string;
+  responseDesc: string;
+  validity: number;
+  voiceQuantity: number;
+  dataQuantity: number;
+  socialBenefit: string;
+  entertainBenefit: string;
+  gameBenefit: string;
+  shoppingBenefit: string;
   cmpTransactionId: string;
   cmpCampaignId: string;
   cmpOfferPoId: string;
-  osVersion: string;
 }
 
 @Injectable()
-export class InterestCmpService {
+export class StatisticsService {
   constructor(private readonly httpService: HttpService) {}
 
-  async interestCmp({
+  async saveStatistics({
     useMock,
     body,
     headers,
   }: {
     useMock: boolean;
-    body: IInterestCmpBody;
+    body: IStatisticsBody;
     headers: any;
   }): Promise<any> {
     if (!useMock) {
@@ -38,7 +75,7 @@ export class InterestCmpService {
       const { data } = await firstValueFrom(
         this.httpService
           .post(
-            'http://trueapp-commonapi-dev.true.th/statistics/cmpstatistics/api/v1/interest',
+            'https://trueapp-commonapi-dev.true.th/statistics/statistics/api/v1/statistics',
             body,
             { headers: headersRequest },
           )

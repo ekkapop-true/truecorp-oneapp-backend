@@ -11,6 +11,7 @@ import { HttpModule } from '@nestjs/axios';
 import { PurchaseModule } from './purchase/purchase.module';
 import { PurchaseService } from './purchase/purchase.service';
 import { InterestCmpModule } from './interest_cmp/interest_cmp.module';
+import { StatisticsModule } from './statistics/statistics.module';
 
 @Module({
   imports: [
@@ -22,6 +23,7 @@ import { InterestCmpModule } from './interest_cmp/interest_cmp.module';
     HttpModule,
     PurchaseModule,
     InterestCmpModule,
+    StatisticsModule,
   ],
   controllers: [AppController],
   providers: [AppService, PackageService, PurchaseService],
