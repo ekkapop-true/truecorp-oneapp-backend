@@ -38,7 +38,8 @@ export class InterestCmpService {
       const { data } = await firstValueFrom(
         this.httpService
           .post(
-            'http://trueapp-commonapi-dev.true.th/statistics/cmpstatistics/api/v1/interest',
+            // 'https://ddchpackagetest.test.dtac.co.th/api/upsell/packlistv2/requestPackListV3',
+            `${process.env.API_HOST}/statistics/statistics/api/v1/statistics`,
             body,
             { headers: headersRequest },
           )

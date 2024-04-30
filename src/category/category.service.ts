@@ -50,7 +50,7 @@ export class CategoryService {
     const { data } = await firstValueFrom(
       this.httpService
         .get(
-          'http://trueapp-commonapi-dev.true.th/category/category/api/v1/mddCategory/' +
+          `${process.env.API_HOST}/category/category/api/v1/mddCategory/` +
             params.mappingId,
           {
             params: params,

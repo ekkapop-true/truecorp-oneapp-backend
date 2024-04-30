@@ -53,7 +53,7 @@ export class PackageService {
         this.httpService
           .post(
             // 'https://ddchpackagetest.test.dtac.co.th/api/upsell/packlistv2/requestPackListV3',
-            'http://trueapp-commonapi-dev.true.th/package/package/api/v1/commonPackage',
+            `${process.env.API_HOST}/package/package/api/v1/commonPackage`,
             body,
             { headers: headersRequest },
           )
